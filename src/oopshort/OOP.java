@@ -14,7 +14,7 @@ public class OOP {
         User.admins.add(s);
         User.admins.add(t);
         User.admins.add(new User("Caleb"));
-        User.admins.add(new User("You"));
+        User.admins.add(new User("He"));
         User.admins.add(new User("Sally"));
 
         for (User u : User.admins){
